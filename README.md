@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s1m0n-github
 - 👀 I’m interested in music and stuff
-- 🌱 I’m currently learning linux, looking forward to c++
+- 🌱 I’m currently looking forward to c++
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me ...
 
